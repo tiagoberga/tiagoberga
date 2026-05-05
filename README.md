@@ -45,6 +45,6 @@ Middleware para conciliação financeira entre ERP e plataformas externas, com f
 ## 📫 Contato
 
 - GitHub: [@tiagoberga](https://github.com/tiagoberga)
-- LinkedIn: [adicionar aqui](https://www.linkedin.com/in/tiago-bergamasco-mba-a0760841/)
+- LinkedIn: [https://www.linkedin.com/in/tiago-bergamasco-mba-a0760841/]
 - E-mail profissional: tiago.bergamasco@gmail.com
 - Celular/WhatsApp: 19996050532
